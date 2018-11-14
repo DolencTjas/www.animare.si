@@ -1,0 +1,69 @@
+html,body{
+	margin: 0;
+    padding: 0;
+}
+#ZgornjaPasica{
+	background-color: cyan;
+	height: 100px;
+	width: 950px;
+	display: flex;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	flex-direction: row;
+	align-items: flex-end;
+
+}
+
+.Logo{
+   margin-left: 20px;
+
+#FacebookTwitter{
+   margin-right: 20;
+   display: flex;
+   flex-wrap: nowrap;
+   flex-direction: row;
+   justify-content: flexend;
+   
+	}
+
+}
+#GlavniOkvir {
+	 background-color: blue;
+	 margin: 0 auto 0 auto;
+	 width: 950px;
+}
+#Glava {
+	background-color: magenta;
+	height: 200px;
+	width: 950px;
+}
+#Navigacija {
+	background-color: yellow;
+	height: 30px;
+	width: 950px;
+}
+#Vsebina {
+	background-color: green;
+	min-height: 350px;
+	width: 950px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	align-items:flex-start;
+}
+#Clanek {
+	background-color: red;
+	min-height: 350px;
+	width: 700px;
+}
+#Sorodno {
+	background-color: orange;
+	min-height: 350px;
+	width: 250px;
+}
+#Noga {
+	background-color: violet;
+	height: 50px;
+	width: 950px;
+}	
